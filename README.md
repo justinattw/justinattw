@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I work at GitHub on the Notifications team as an individual contributor 🧑‍💻
+I'm an individual contributor at GitHub, working on the Notifications platform 🧑‍💻
