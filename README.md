@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm an individual contributor at GitHub, working on the Notifications platform 🧑‍💻
+Individual contributor at GitHub, working on the Notifications platform 🧑‍💻
