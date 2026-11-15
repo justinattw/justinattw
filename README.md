@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 
 Individual contributor at GitHub, working on the Notifications platform 🧑‍💻
 
-justinattw.github.io
+[https://justinattw.github.io](https://justinattw.github.io)
